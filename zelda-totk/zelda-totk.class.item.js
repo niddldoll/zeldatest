@@ -119,7 +119,7 @@ Item.prototype.refreshHtmlInputs=function(fixValues){
 
 
 Item.getMaximumQuantity=function(itemId){
-	return Item.MAXIMUM_QUANTITY[itemId] || 999;
+	return Item.MAXIMUM_QUANTITY[itemId] || 9999;
 }
 Item.buildHtmlElements=function(item){
 	var maxQuantity=Item.getMaximumQuantity(item.id);

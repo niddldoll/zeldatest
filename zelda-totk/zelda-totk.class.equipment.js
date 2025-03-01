@@ -260,12 +260,13 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_001:20,
 	Weapon_Sword_002:23,
 	Weapon_Sword_003:27,
+	Weapon_Sword_015:100,
 	Weapon_Sword_019:5,
 	Weapon_Sword_020:5,
 	Weapon_Sword_021:6,
 	Weapon_Sword_022:5,
 	Weapon_Sword_024:35,
-	Weapon_Sword_025:27,
+	Weapon_Sword_025:500,
 	Weapon_Sword_027:27,
 	Weapon_Sword_029:14,
 	Weapon_Sword_031:27,
@@ -274,16 +275,21 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_044:4,
 	Weapon_Sword_047:12,
 	Weapon_Sword_051:18,
-	Weapon_Sword_052:60,
+	Weapon_Sword_052:9999,
 	Weapon_Sword_057:45,
 	Weapon_Sword_058:27,
-	Weapon_Sword_059:20,
+	Weapon_Sword_059:9999,
 	Weapon_Sword_070:40,
+	Weapon_Sword_DMS:40,
+	Weapon_Sword_077:40,
+	Weapon_Sword_078:40,
+	Weapon_Sword_070_Broken:6,
 	Weapon_Sword_101:15,
 	Weapon_Sword_103:12,
 	Weapon_Sword_105:16,
 	Weapon_Sword_106:16,
-	Weapon_Sword_107:17,
+	Weapon_Sword_107:9999,
+	Weapon_Sword_107v2:9999,
 	Weapon_Sword_108:24,
 	Weapon_Sword_109:14,
 	Weapon_Sword_112:17,
@@ -298,16 +304,25 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_161:14,
 	Weapon_Sword_163:16,
 	Weapon_Sword_164:18,
-	Weapon_Sword_166:15,
+	Weapon_Sword_166:9999,
 	Weapon_Sword_167:4,
 	Weapon_Sword_168:12,
-	Weapon_Sword_077:40,
-	Weapon_Sword_070_Broken:6,
+	Weapon_Sword_Mythra:9999,
+	Weapon_Sword_Pyra:9999,
+	Weapon_Sword_ML:900,
+	Weapon_Sword_One:10,
+	Gs2:500,
+	Gs3:600,
+	Weapon_Sword_023:500,
+	Weapon_Sword_028:500,
 	Npc_Zelda_Torch:8,
 
 	Weapon_Lsword_001:20,
 	Weapon_Lsword_002:25,
 	Weapon_Lsword_003:30,
+	Weapon_Lsword_buster:900,
+	Weapon_Lsword_busterv2:60,
+	Weapon_Lsword_Sla:250,
 	Weapon_Lsword_019:5,
 	Weapon_Lsword_020:8,
 	Weapon_Lsword_024:40,
@@ -342,6 +357,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Lsword_166:14,
 	Weapon_Lsword_168:14,
 	Weapon_Lsword_174:18,
+	Weapon_Lsword_ML:900,
 	Weapon_Spear_001:30,
 	Weapon_Spear_002:35,
 	Weapon_Spear_003:40,
@@ -389,12 +405,15 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Bow_015:40,
 	Weapon_Bow_016:30,
 	Weapon_Bow_017:35,
+	Weapon_Bow_023:9999,
 	Weapon_Bow_026:35,
 	Weapon_Bow_027:30,
-	Weapon_Bow_028:60,
+	Weapon_Bow_028:9999,
+	Weapon_Bow_eagle:60,
+	Weapon_Bow_eagle2:60,
 	Weapon_Bow_029:45,
 	Weapon_Bow_030:50,
-	Weapon_Bow_032:45,
+	Weapon_Bow_032:9999,
 	Weapon_Bow_033:20,
 	Weapon_Bow_035:48,
 	Weapon_Bow_036:60,
@@ -406,7 +425,9 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Bow_105:26,
 	Weapon_Bow_106:34,
 	Weapon_Bow_107:20,
+            Weapon_Bow_107:60,
 	Weapon_Bow_166:42,
+	Weapon_Bow_Asura:120,
 
 	Weapon_Shield_001:12,
 	Weapon_Shield_002:16,
@@ -417,6 +438,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_007:8,
 	Weapon_Shield_008:12,
 	Weapon_Shield_009:15,
+	Weapon_Shield_015:600,
 	Weapon_Shield_016:12,
 	Weapon_Shield_017:15,
 	Weapon_Shield_018:20,
@@ -432,7 +454,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_034:12,
 	Weapon_Shield_035:12,
 	Weapon_Shield_036:26,
-	Weapon_Shield_037:60,
+	Weapon_Shield_037:100000,
 	Weapon_Shield_040:10,
 	Weapon_Shield_041:16,
 	Weapon_Shield_042:16,
@@ -441,6 +463,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_102:15,
 	Weapon_Shield_103:20,
 	Weapon_Shield_107:12,
+	Weapon_Shield_DHS:800,
 };
 
 Equipment.FUSE_DURABILITY={
@@ -461,11 +484,14 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_044:10,
 	Weapon_Sword_047:10,
 	Weapon_Sword_051:25,
-	Weapon_Sword_052:25,
+	Weapon_Sword_052:9999,
 	Weapon_Sword_057:25,
 	Weapon_Sword_058:25,
 	Weapon_Sword_059:25,
 	Weapon_Sword_070:25,
+	Weapon_Sword_077:25,
+	Weapon_Sword_078:25,
+	Weapon_Sword_070_Broken:25,
 	Weapon_Sword_101:25,
 	Weapon_Sword_103:25,
 	Weapon_Sword_105:25,
@@ -488,8 +514,6 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_166:10,
 	Weapon_Sword_167:10,
 	Weapon_Sword_168:25,
-	Weapon_Sword_077:25,
-	Weapon_Sword_070_Broken:25,
 	Npc_Zelda_Torch:25,
 
 	Weapon_Lsword_001:25,
@@ -529,6 +553,8 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Lsword_166:10,
 	Weapon_Lsword_168:25,
 	Weapon_Lsword_174:25,
+	Weapon_Lsword_buster:25,
+	Weapon_Lsword_busterv2:25,
 	Weapon_Spear_001:25,
 	Weapon_Spear_002:25,
 	Weapon_Spear_003:25,
@@ -569,6 +595,9 @@ Equipment.FUSE_DURABILITY={
 Equipment.AVAILABILITY={
 	'weapons':[
 		'Weapon_Sword_070', //Master Sword
+		'Weapon_Sword_077', //Master Sword (glitched)
+		'Weapon_Sword_078', //Master Sword
+		'Weapon_Sword_DMS', //Dark Master Sword
 		'Weapon_Sword_106', //Traveler's Sword (decayed)
 		'Weapon_Sword_001', //Traveler's Sword
 		'Weapon_Sword_112', //Soldier's Broadsword (decayed)
@@ -607,12 +636,15 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_105', //Boomerang (decayed)
 		'Weapon_Sword_051', //Boomerang
 		'Weapon_Sword_107', //Lizal Boomerang
+		'Weapon_Sword_107v2', //Lizal Boomerangv2
 		'Weapon_Sword_059', //Sea-Breeze Boomerang
 		'Weapon_Sword_044', //Tree Branch
 		'Weapon_Sword_167', //Tree Branch (sky)
 		'Weapon_Sword_022', //Soup Ladle
 		'Weapon_Sword_043', //Torch
-		'Weapon_Sword_077', //Master Sword (glitched)
+		'Weapon_Sword_Mythra', //Mythra
+		'Weapon_Sword_Pyra', //Pyra
+		'Weapon_Sword_One', //One-Hit Obliterator
 
 		'Weapon_Sword_070_Broken', //*Decayed Master Sword (unused)
 		'Npc_Zelda_Torch', //*Zelda's intro torch (unused)
@@ -653,6 +685,8 @@ Equipment.AVAILABILITY={
 		'Weapon_Lsword_019', //Moblin Arm
 		'Weapon_Lsword_166', //Gloom Club
 		'Weapon_Lsword_045', //Farming Hoe
+		'Weapon_Lsword_buster', //Buster Sword
+		'Weapon_Lsword_busterv2', //Buster Sword v2
 		'Weapon_Lsword_038', //Boat Oar
 
 		'Weapon_Spear_038', //Fishing Harpoon
@@ -703,6 +737,9 @@ Equipment.AVAILABILITY={
 		'Weapon_Bow_016', //Swallow Bow
 		'Weapon_Bow_017', //Falcon Bow
 		'Weapon_Bow_028', //Great Eagle Bow
+		'Weapon_Bow_eagle', //Great Eagle Bow
+		'Weapon_Bow_eagle2', //Great Eagle Bow
+		'Weapon_Bow_023', //Ancient Bow
 		'Weapon_Bow_015', //Gerudo Bow
 		'Weapon_Bow_029', //Phrenic Bow
 		'Weapon_Bow_033', //Royal Guard's Bow
@@ -721,11 +758,13 @@ Equipment.AVAILABILITY={
 		'Weapon_Bow_105', //Strong Construct Bow
 		'Weapon_Bow_106', //Mighty Construct Bow
 		'Weapon_Bow_101', //Zonaite Bow
+		'Weapon_Bow_129', //Great Eagle Bow
 		'Weapon_Bow_166' //Demon King's Bow
 	],
 
 	'shields':[
 		'Weapon_Shield_030', //Hylian Shield
+		'Weapon_Shield_DHS', //Dark Hylian Shield
 		'Weapon_Shield_107', //Old Wooden Shield
 		'Weapon_Shield_001', //Wooden Shield
 		'Weapon_Shield_034', //Emblazoned Shield

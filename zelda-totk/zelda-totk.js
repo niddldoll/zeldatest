@@ -1426,9 +1426,9 @@ SavegameEditor={
 		setNumericRange('rupees', 0, 999999);
 		setNumericRange('pony-points', 0, 999999);
 
-		setNumericRange('pouch-size-swords', 9, 20);
-		setNumericRange('pouch-size-bows', 5, 14);
-		setNumericRange('pouch-size-shields', 4, 20);
+		setNumericRange('pouch-size-swords', 9, 60);
+		setNumericRange('pouch-size-bows', 5, 60);
+		setNumericRange('pouch-size-shields', 4, 60);
 
 
 

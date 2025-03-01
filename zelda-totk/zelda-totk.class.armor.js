@@ -112,6 +112,10 @@ Armor.AVAILABILITY=[
 	'Armor_020_Upper','Armor_095_Upper','Armor_096_Upper','Armor_097_Upper','Armor_098_Upper', //Soldier's Armor
 	'Armor_020_Lower','Armor_095_Lower','Armor_096_Lower','Armor_097_Lower','Armor_098_Lower', //Soldier's Greaves
 
+	'Armor_021_Head','Armor_099_Head','Armor_100_Head','Armor_101_Head','Armor_102_Head', //Ancient Helm
+	'Armor_021_Upper','Armor_099_Upper','Armor_100_Upper','Armor_101_Upper','Armor_102_Upper', //Ancient Cuirass
+	'Armor_021_Lower','Armor_099_Lower','Armor_100_Lower','Armor_101_Lower','Armor_102_Lower', //Ancient Greaves
+
 	'Armor_024_Head','Armor_117_Head','Armor_118_Head','Armor_119_Head','Armor_120_Head', //Diamond Circlet
 	'Armor_025_Head','Armor_121_Head','Armor_122_Head','Armor_123_Head','Armor_124_Head', //Ruby Circlet
 	'Armor_026_Head','Armor_125_Head','Armor_126_Head','Armor_127_Head','Armor_128_Head', //Sapphire Circlet
@@ -135,7 +139,7 @@ Armor.AVAILABILITY=[
 	'Armor_056_Head', //Lynel Mask
 	'Armor_1125_Head', //Horriblin Mask
 
-	'Armor_115_Head', //Lightning Helm
+	'Armor_115_Head','Armor_115_Head_1','Armor_115_Head_2','Armor_115_Head_3','Armor_115_Head_4', //Lightning Helm              
 
 	'Armor_116_Upper','Armor_148_Upper','Armor_149_Upper','Armor_150_Upper','Armor_151_Upper', //Tunic of Memories
 
@@ -149,7 +153,7 @@ Armor.AVAILABILITY=[
 	'Armor_171_Upper', //Phantom Armor
 	'Armor_171_Lower', //Phantom Greaves
 
-	'Armor_172_Head', //Majora's Mask
+	'Armor_172_Head','Armor_172_Head_1','Armor_172_Head_2','Armor_172_Head_3','Armor_172_Head_4', //Majora's Mask
 
 	'Armor_173_Head', //Midna's Helmet
 
@@ -159,7 +163,7 @@ Armor.AVAILABILITY=[
 
 	'Armor_175_Upper', //Island Lobster Shirt
 
-	'Armor_176_Head', //Korok Mask
+	'Armor_176_Head','Armor_176_Head_1','Armor_176_Head_2','Armor_176_Head_3','Armor_176_Head_4', //Korok Mask
 
 	'Armor_177_Head', //Ravio's Hood
 
@@ -171,9 +175,9 @@ Armor.AVAILABILITY=[
 
 
 
-	'Armor_180_Head', //Evil Spirit Mask
-	'Armor_180_Upper', //Evil Spirit Armor
-	'Armor_180_Lower', //Evil Spirit Greaves
+	'Armor_180_Head','Armor_180_Head_1','Armor_180_Head_2','Armor_180_Head_3','Armor_180_Head_4', //Evil Spirit Mask
+	'Armor_180_Upper','Armor_180_Upper_1','Armor_180_Upper_2','Armor_180_Upper_3','Armor_180_Upper_4', //Evil Spirit Armor
+	'Armor_180_Lower','Armor_180_Lower_1','Armor_180_Lower_2','Armor_180_Lower_3','Armor_180_Lower_4', //Evil Spirit Greaves
 
 	'Armor_181_Head','Armor_186_Head','Armor_187_Head','Armor_188_Head','Armor_189_Head', //Vah Ruta Divine Helm
 	'Armor_182_Head','Armor_190_Head','Armor_191_Head','Armor_192_Head','Armor_193_Head', //Vah Medoh Divine Helm
@@ -206,7 +210,32 @@ Armor.AVAILABILITY=[
 	'Armor_230_Upper','Armor_231_Upper','Armor_232_Upper','Armor_233_Upper','Armor_234_Upper', //Tunic of the Hero
 	'Armor_230_Lower','Armor_231_Lower','Armor_232_Lower','Armor_233_Lower','Armor_234_Lower', //Trousers of the Hero
 
+	'Armor_Rex_Head', //Salvager Helmet
+	'Armor_Rex_Upper', //Salvager Vest
+	'Armor_Rex_Lower', //Salvager Trousers
 
+	'Armor_BSL_Head','Armor_BSL_Head_1','Armor_BSL_Head_2','Armor_BSL_Head_3','Armor_BSL_Head_4', //Salvager Helmet
+	'Armor_BSL_Upper','Armor_BSL_Upper_1','Armor_BSL_Upper_2','Armor_BSL_Upper_3','Armor_BSL_Upper_4', //Salvager Vest
+	'Armor_BSLN_Upper','Armor_BSLN_Upper_1','Armor_BSLN_Upper_2','Armor_BSLN_Upper_3','Armor_BSLN_Upper_4', //Salvager Vest
+	'Armor_BSL_Lower','Armor_BSL_Lower_1','Armor_BSL_Lower_2','Armor_BSL_Lower_3','Armor_BSL_Lower_4', //Salvager Trousers
+
+	'Armor_KRBK_Head','Armor_KRBK_Head_1','Armor_KRBK_Head_2','Armor_KRBK_Head_3','Armor_KRBK_Head_4', //Salvager Helmet
+	'Armor_KRBK_Upper','Armor_KRBK_Upper_1','Armor_KRBK_Upper_2','Armor_KRBK_Upper_3','Armor_KRBK_Upper_4', //Salvager Vest
+	'Armor_KRBK_Lower','Armor_KRBK_Lower_1','Armor_KRBK_Lower_2','Armor_KRBK_Lower_3','Armor_KRBK_Lower_4', //Salvager Trousers
+
+	'Armor_MM0_Upper','Armor_MM0_Upper_1','Armor_MM0_Upper_2','Armor_MM0_Upper_3','Armor_MM0_Upper_4', //Nintendo Shirt
+
+	'Armor_Clo_Head', //Cloud's Headpiece
+	'Armor_Clo_Upper', //Cloud's Advent Attire
+	'Armor_Clo_Lower', //Cloud's Advent Pants
+
+	'Armor_SEPH_Head', //Cloud's Headpiece
+	'Armor_SEPH_Upper', //Cloud's Advent Attire
+	'Armor_SEPH_Lower', //Cloud's Advent Pants
+
+	'Armor_Rex_Head', //Cloud's Headpiece
+	'Armor_Rex_Upper', //Cloud's Advent Attire
+	'Armor_Rex_Lower', //Cloud's Advent Pants
 
 	'Armor_1006_Head','Armor_1007_Head','Armor_1008_Head','Armor_1009_Head','Armor_1010_Head', //Glide Mask
 	'Armor_1006_Upper','Armor_1007_Upper','Armor_1008_Upper','Armor_1009_Upper','Armor_1010_Upper', //Glide Shirt
@@ -252,6 +281,8 @@ Armor.AVAILABILITY=[
 	'Armor_1096_Upper','Armor_1097_Upper','Armor_1098_Upper','Armor_1099_Upper','Armor_1100_Upper', //Tunic of Awakening
 	'Armor_1096_Lower','Armor_1097_Lower','Armor_1098_Lower','Armor_1099_Lower','Armor_1100_Lower', //Trousers of Awakening
 
+	'Armor_1101_Head','Armor_1102_Head','Armor_1103_Head','Armor_1104_Head','Armor_1105_Head', //Mask of Furry Awakening
+
 	'Armor_1106_Upper','Armor_1107_Upper','Armor_1108_Upper','Armor_1109_Upper','Armor_1110_Upper', //Champion's Leather
 
 	'Armor_1141_Head','Armor_1142_Head','Armor_1143_Head','Armor_1144_Head','Armor_1145_Head', //Hood of the Depths
@@ -264,7 +295,7 @@ Armor.AVAILABILITY=[
 	'Armor_1300_Upper','Armor_1301_Upper','Armor_1302_Upper','Armor_1303_Upper','Armor_1304_Upper', //Yiga Armor
 	'Armor_1300_Lower','Armor_1301_Lower','Armor_1302_Lower','Armor_1303_Lower','Armor_1304_Lower', //Yiga Tight
 
-	'Armor_1150_Upper' //*Tunic of memories (intro, unused)
+	'Armor_1150_Upper','Armor_1151_Upper','Armor_1152_Upper','Armor_1153_Upper','Armor_1154_Upper' //*Tunic of memories (intro, unused)
 ];
 
 Armor.INFO=(function(upgrades, dyeables){
@@ -309,6 +340,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['014','083','084','085','086'], //Climbers Bandanna/Gear/Boots
 	['017','087','088','089','090'], //Radiant Mask/Shirt/Tights
 	['020','095','096','097','098'], //Soldiers Helm/Armor/Greaves
+	['021','099','100','101','102'], //Ancient Helm/Cuirass/Greaves
 	['024','117','118','119','120'], //Diamond Circlet
 	['025','121','122','123','124'], //Ruby Circlet
 	['026','125','126','127','128'], //Sapphire Circlet
@@ -341,7 +373,9 @@ Armor.INFO=(function(upgrades, dyeables){
 	['1071','1072','1073','1074','1075'], //Frostbite Headdress/Shirt/Trousers
 	['1091','1092','1093','1094','1095'], //Zonaite Helm/Waistguard/Shin Guards
 	['1096','1097','1098','1099','1100'], //Mask/Tunic/Trousers of Awakening
+	['1101','1102','1103','1104','1105'], //Mask of Furry Awakening
 	['1106','1107','1108','1109','1110'], //Champions Leather
+	['1150','1151','1152','1153','1154'], //*Tunic of memories (intro, unused)
 	['1141','1142','1143','1144','1145'], //Hood/Tunic/Gaiters of the Depths
 	['1300','1301','1302','1303','1304'] //Yiga Mask/Armor/Tight
 ], [
@@ -353,6 +387,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	'001', //Hylian Hood/Tunic/Trousers
 
 	'020', //Soldier's Helm/Armor/Greaves
+	'021', //Ancient Helm/Cuirass/Greaves
 	'009', //Snowquill Headdress/Tunic/Trousers
 	'011', //Flamebreaker Helm/Armor/Boots
 	'006', //Zora Helm/Armor/Greaves
