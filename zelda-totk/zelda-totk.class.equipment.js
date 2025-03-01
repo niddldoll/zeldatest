@@ -315,6 +315,7 @@ Equipment.DEFAULT_DURABILITY={
 	Gs3:600,
 	Weapon_Sword_023:500,
 	Weapon_Sword_028:500,
+	Weapon_Sword_231:40,	
 	Npc_Zelda_Torch:8,
 
 	Weapon_Lsword_001:20,
@@ -514,6 +515,7 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_166:10,
 	Weapon_Sword_167:10,
 	Weapon_Sword_168:25,
+	Weapon_Sword_231:25,	
 	Npc_Zelda_Torch:25,
 
 	Weapon_Lsword_001:25,
