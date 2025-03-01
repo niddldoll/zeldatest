@@ -307,6 +307,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_166:9999,
 	Weapon_Sword_167:4,
 	Weapon_Sword_168:12,
+	Weapon_Sword_231:40,
 	Weapon_Sword_Mythra:9999,
 	Weapon_Sword_Pyra:9999,
 	Weapon_Sword_ML:900,
@@ -315,7 +316,6 @@ Equipment.DEFAULT_DURABILITY={
 	Gs3:600,
 	Weapon_Sword_023:500,
 	Weapon_Sword_028:500,
-	Weapon_Sword_231:40,
 	Npc_Zelda_Torch:8,
 
 	Weapon_Lsword_001:20,
@@ -647,6 +647,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_Mythra', //Mythra
 		'Weapon_Sword_Pyra', //Pyra
 		'Weapon_Sword_One', //One-Hit Obliterator
+		'Weapon_Sword_231', //Zonai Replica
 
 		'Weapon_Sword_070_Broken', //*Decayed Master Sword (unused)
 		'Npc_Zelda_Torch', //*Zelda's intro torch (unused)
