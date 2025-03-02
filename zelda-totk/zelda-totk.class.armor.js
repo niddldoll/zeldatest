@@ -229,13 +229,9 @@ Armor.AVAILABILITY=[
 	'Armor_Clo_Upper', //Cloud's Advent Attire
 	'Armor_Clo_Lower', //Cloud's Advent Pants
 
-	'Armor_SEPH_Head', //Cloud's Headpiece
-	'Armor_SEPH_Upper', //Cloud's Advent Attire
-	'Armor_SEPH_Lower', //Cloud's Advent Pants
-
-	'Armor_Rex_Head', //Cloud's Headpiece
-	'Armor_Rex_Upper', //Cloud's Advent Attire
-	'Armor_Rex_Lower', //Cloud's Advent Pants
+	'Armor_SEPH_Head', //Sephiroth's Headpiece
+	'Armor_SEPH_Upper', //Sephiroth's Attire
+	'Armor_SEPH_Lower', //Sephiroth's Pants
 
 	'Armor_1006_Head','Armor_1007_Head','Armor_1008_Head','Armor_1009_Head','Armor_1010_Head', //Glide Mask
 	'Armor_1006_Upper','Armor_1007_Upper','Armor_1008_Upper','Armor_1009_Upper','Armor_1010_Upper', //Glide Shirt
