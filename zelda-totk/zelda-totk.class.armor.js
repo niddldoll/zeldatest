@@ -210,9 +210,9 @@ Armor.AVAILABILITY=[
 	'Armor_230_Upper','Armor_231_Upper','Armor_232_Upper','Armor_233_Upper','Armor_234_Upper', //Tunic of the Hero
 	'Armor_230_Lower','Armor_231_Lower','Armor_232_Lower','Armor_233_Lower','Armor_234_Lower', //Trousers of the Hero
 
-	'Armor_Rex_Head', //Salvager Helmet
-	'Armor_Rex_Upper', //Salvager Vest
-	'Armor_Rex_Lower', //Salvager Trousers
+	'Armor_Rex_Head','Armor_Rex_Head_1','Armor_Rex_Head_2','Armor_Rex_Head_3','Armor_Rex_Head_4', //Salvager Helmet
+	'Armor_Rex_Upper','Armor_Rex_Upper_1','Armor_Rex_Upper_2','Armor_Rex_Upper_3','Armor_Rex_Upper_4', //Salvager Vest
+	'Armor_Rex_Lower','Armor_Rex_Lower_1','Armor_Rex_Lower_2','Armor_Rex_Lower_3','Armor_Rex_Lower_4', //Salvager Trousers
 
 	'Armor_BSL_Head','Armor_BSL_Head_1','Armor_BSL_Head_2','Armor_BSL_Head_3','Armor_BSL_Head_4', //Salvager Helmet
 	'Armor_BSL_Upper','Armor_BSL_Upper_1','Armor_BSL_Upper_2','Armor_BSL_Upper_3','Armor_BSL_Upper_4', //Salvager Vest
