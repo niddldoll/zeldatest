@@ -384,6 +384,11 @@ Armor.INFO=(function(upgrades, dyeables){
 	'1043', //Archaic Tunic/Legwear
 	'1044', //Archaic Warm Greaves
 	'1087', //Mystic Trousers
+	'MM0', //Nintendo Shirt
+	'MM0_1', //Nintendo Shirt
+	'MM0_2', //Nintendo Shirt
+	'MM0_3', //Nintendo Shirt
+	'MM0_4', //Nintendo Shirt
 
 	'1152', //Hylian Hood (lowered)
 	'001', //Hylian Hood/Tunic/Trousers
