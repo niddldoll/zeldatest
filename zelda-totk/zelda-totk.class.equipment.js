@@ -456,6 +456,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_035:12,
 	Weapon_Shield_036:26,
 	Weapon_Shield_037:100000,
+	Weapon_Shield_038:1500,
 	Weapon_Shield_040:10,
 	Weapon_Shield_041:16,
 	Weapon_Shield_042:16,
@@ -768,6 +769,7 @@ Equipment.AVAILABILITY={
 	'shields':[
 		'Weapon_Shield_030', //Hylian Shield
 		'Weapon_Shield_DHS', //Dark Hylian Shield
+		'Weapon_Shield_038', //Ancient Shield
 		'Weapon_Shield_107', //Old Wooden Shield
 		'Weapon_Shield_001', //Wooden Shield
 		'Weapon_Shield_034', //Emblazoned Shield
