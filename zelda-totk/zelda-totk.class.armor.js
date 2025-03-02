@@ -272,6 +272,7 @@ Armor.AVAILABILITY=[
 	'Armor_1086_Head', //Mystic Headpiece
 	'Armor_1086_Upper', //Mystic Robe
 	'Armor_1086_Lower', //Mystic Trousers
+	'Armor_1087_Lower', //Mystic Trousers(Low gravity)
 
 	'Armor_1091_Head','Armor_1092_Head','Armor_1093_Head','Armor_1094_Head','Armor_1095_Head', //Zonaite Helm
 	'Armor_1091_Upper','Armor_1092_Upper','Armor_1093_Upper','Armor_1094_Upper','Armor_1095_Upper', //Zonaite Waistguard
@@ -382,6 +383,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	/* dyeable */
 	'1043', //Archaic Tunic/Legwear
 	'1044', //Archaic Warm Greaves
+	'1087', //Mystic Trousers
 
 	'1152', //Hylian Hood (lowered)
 	'001', //Hylian Hood/Tunic/Trousers
