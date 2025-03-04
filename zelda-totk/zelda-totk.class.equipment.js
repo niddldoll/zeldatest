@@ -317,6 +317,8 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_023:500,
 	Weapon_Sword_028:500,
 	Npc_Zelda_Torch:8,
+	Demo910_Torch: 8,
+	Weapon_Sword_043_SetFire: 8,
 
 	Weapon_Lsword_001:20,
 	Weapon_Lsword_002:25,
@@ -358,6 +360,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Lsword_166:14,
 	Weapon_Lsword_168:14,
 	Weapon_Lsword_174:18,
+	Weapon_Lsword_154:40,
 	Weapon_Lsword_ML:900,
 	Weapon_Spear_001:30,
 	Weapon_Spear_002:35,
@@ -393,6 +396,12 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Spear_166:16,
 	Weapon_Spear_168:18,
 	Weapon_Spear_173:20,
+	Weapon_Spear_036_MercenarySoldier: 8,
+	Weapon_Spear_150:70,
+	Weapon_RaumiGolem_Left:20,
+	Weapon_RaumiGolem_Right:20,
+	Weapon_DungeonBossZonau:20,
+	Weapon_Goron_Knuckle:20,
 
 	Weapon_Bow_001:22,
 	Weapon_Bow_002:36,
@@ -409,7 +418,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Bow_023:9999,
 	Weapon_Bow_026:35,
 	Weapon_Bow_027:30,
-	Weapon_Bow_028:9999,
+	Weapon_Bow_028:60,
 	Weapon_Bow_eagle:60,
 	Weapon_Bow_eagle2:60,
 	Weapon_Bow_029:45,
@@ -426,12 +435,18 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Bow_105:26,
 	Weapon_Bow_106:34,
 	Weapon_Bow_107:20,
-            Weapon_Bow_107:60,
 	Weapon_Bow_166:42,
-	Weapon_Bow_Asura:120,
+	Weapon_Bow_016_Event: 30,
+	Weapon_Bow_116:30,
+	Weapon_Bow_128:60,
+	Weapon_Bow_129:60,
+	Weapon_Bow_166_For_Ganondorf:42,
+	Weapon_Bow_Asura:120,	
 
 	Weapon_Shield_001:12,
+	Weapon_Shield_001_NoBurned:12,
 	Weapon_Shield_002:16,
+	Weapon_Shield_002_NoBurned:16,
 	Weapon_Shield_003:23,
 	Weapon_Shield_004:5,
 	Weapon_Shield_005:7,
@@ -450,22 +465,33 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_026:20,
 	Weapon_Shield_030:800,
 	Weapon_Shield_031:10,
+	Weapon_Shield_031_NoBurned:10,
 	Weapon_Shield_032:10,
+	Weapon_Shield_032_NoBurned:10,
 	Weapon_Shield_033:14,
 	Weapon_Shield_034:12,
+	Weapon_Shield_034_NoBurned:12,
 	Weapon_Shield_035:12,
+	Weapon_Shield_035_NoBurned:12,
 	Weapon_Shield_036:26,
 	Weapon_Shield_037:100000,
 	Weapon_Shield_038:1500,
 	Weapon_Shield_040:10,
 	Weapon_Shield_041:16,
 	Weapon_Shield_042:16,
+	Weapon_Shield_042_NoBurned:16,
 	Weapon_Shield_057:90,
 	Weapon_Shield_101:15,
 	Weapon_Shield_102:15,
 	Weapon_Shield_103:20,
 	Weapon_Shield_107:12,
-	Weapon_Shield_DHS:800,
+	Weapon_Shield_DHS:800,	
+	Weapon_DungeonBossZonau_Front:12,
+	Weapon_RaumiGolem_Back: 12,
+	Weapon_RaumiGolem_Left:20,
+	Weapon_RaumiGolem_Right:20,
+	Weapon_DungeonBossZonau:20,
+	Weapon_Goron_Knuckle:20
 };
 
 Equipment.FUSE_DURABILITY={
@@ -483,17 +509,17 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_031:25,
 	Weapon_Sword_041:25,
 	Weapon_Sword_043:10,
+	Weapon_Sword_043_SetFire: 25,
 	Weapon_Sword_044:10,
 	Weapon_Sword_047:10,
 	Weapon_Sword_051:25,
-	Weapon_Sword_052:9999,
+	Weapon_Sword_052:25,
 	Weapon_Sword_057:25,
 	Weapon_Sword_058:25,
 	Weapon_Sword_059:25,
 	Weapon_Sword_070:25,
-	Weapon_Sword_077:25,
+	Weapon_Sword_071:25,
 	Weapon_Sword_078:25,
-	Weapon_Sword_070_Broken:25,
 	Weapon_Sword_101:25,
 	Weapon_Sword_103:25,
 	Weapon_Sword_105:25,
@@ -516,8 +542,14 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_166:10,
 	Weapon_Sword_167:10,
 	Weapon_Sword_168:25,
-	Weapon_Sword_231:25,
+	Weapon_Sword_077:25,
+	Weapon_Sword_070_Broken:25,
+	Weapon_Sword_231:25,	
 	Npc_Zelda_Torch:25,
+	Weapon_Sword_152_Main:25,
+	Weapon_Sword_152_Sub:25,
+	Demo910_Torch:25,
+	Weapon_Sword_043_SetFire:25,
 
 	Weapon_Lsword_001:25,
 	Weapon_Lsword_002:25,
@@ -550,6 +582,7 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Lsword_129:5,
 	Weapon_Lsword_136:25,
 	Weapon_Lsword_147:10,
+	Weapon_Lsword_154:25,
 	Weapon_Lsword_161:25,
 	Weapon_Lsword_163:25,
 	Weapon_Lsword_164:25,
@@ -570,6 +603,7 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Spear_030:25,
 	Weapon_Spear_032:25,
 	Weapon_Spear_036:10,
+	Weapon_Spear_036_MercenarySoldier:25,
 	Weapon_Spear_038:10,
 	Weapon_Spear_047:10,
 	Weapon_Spear_050:25,
@@ -586,6 +620,7 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Spear_129:5,
 	Weapon_Spear_132:25,
 	Weapon_Spear_147:10,
+	Weapon_Spear_150:25,
 	Weapon_Spear_161:25,
 	Weapon_Spear_163:25,
 	Weapon_Spear_164:25,
@@ -593,12 +628,15 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Spear_168:25,
 	Weapon_Spear_173:25,
 
+	Weapon_RaumiGolem_Left: 25,
+	Weapon_RaumiGolem_Right: 25,
+	Weapon_Goron_Knuckle: 25,
+	Weapon_DungeonBossZonau: 25,
 };
 
 Equipment.AVAILABILITY={
 	'weapons':[
 		'Weapon_Sword_070', //Master Sword
-		'Weapon_Sword_077', //Master Sword (glitched)
 		'Weapon_Sword_078', //Master Sword
 		'Weapon_Sword_DMS', //Dark Master Sword
 		'Weapon_Sword_106', //Traveler's Sword (decayed)
@@ -648,10 +686,17 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_Mythra', //Mythra
 		'Weapon_Sword_Pyra', //Pyra
 		'Weapon_Sword_One', //One-Hit Obliterator
-		'Weapon_Sword_231', //Zonai Replica
-
+		'Weapon_Sword_231', //Zonai Replica		
+		
+		'Weapon_Sword_077', //Master Sword (glitched)
+		'Weapon_Sword_071', //Master Sword (cutscenes)
+		'Weapon_Sword_071_Broken', // Broken Master Sword (cutscenes)
+		'Weapon_Sword_152_Main', // Riju's Scimitar of the Seven
+		'Weapon_Sword_152_Sub', //  Riju's Scimitar of the Seven
 		'Weapon_Sword_070_Broken', //*Decayed Master Sword (unused)
 		'Npc_Zelda_Torch', //*Zelda's intro torch (unused)
+		'Demo910_Torch', //Zelda's intro torch (alternate, unused)
+		'Weapon_Sword_043_SetFire', //Self Lighting Torch (unused)
 
 		'Weapon_Lsword_174', //Giant Boomerang (decayed)
 		'Weapon_Lsword_051', //Giant Boomerang
@@ -692,6 +737,8 @@ Equipment.AVAILABILITY={
 		'Weapon_Lsword_buster', //Buster Sword
 		'Weapon_Lsword_busterv2', //Buster Sword v2
 		'Weapon_Lsword_038', //Boat Oar
+		
+		'Weapon_Lsword_154', //Yunobo's Boulder Breaker
 
 		'Weapon_Spear_038', //Fishing Harpoon
 		'Weapon_Spear_173', //Throwing Spear (decayed)
@@ -726,7 +773,16 @@ Equipment.AVAILABILITY={
 		'Weapon_Spear_161', //Magic Staff
 		'Weapon_Spear_166', //Gloom Spear
 		'Weapon_Spear_036', //Wooden Mop
-		'Weapon_Spear_022' //Farmer's Pitchfork
+		'Weapon_Spear_022', //Farmer's Pitchfork
+		
+		'Weapon_Spear_036_MercenarySoldier', // Wooden Mop (Mercenary Version)
+		'Weapon_Spear_150', //Sidon's Lightscale Trident
+
+		'Weapon_RaumiGolem_Left', //Mineru's Construct's Left Arm
+		'Weapon_RaumiGolem_Right', //Mineru's Construct's Right Arm
+		'Weapon_DungeonBossZonau', //Seized Construct's Arms
+		'Weapon_Goron_Knuckle', // Goron Punch Attack
+
 	],
 
 	'bows':[
@@ -762,8 +818,13 @@ Equipment.AVAILABILITY={
 		'Weapon_Bow_105', //Strong Construct Bow
 		'Weapon_Bow_106', //Mighty Construct Bow
 		'Weapon_Bow_101', //Zonaite Bow
-		'Weapon_Bow_129', //Great Eagle Bow
-		'Weapon_Bow_166' //Demon King's Bow
+		'Weapon_Bow_166', //Demon King's Bow
+
+		'Weapon_Bow_016_Event', //Tulin's Swallow Bow
+		'Weapon_Bow_116', //Tulin's Swallow Bow
+		'Weapon_Bow_128', //Tulin's Single Shot Great Eagle Bow
+		'Weapon_Bow_129', //Tulin's Great Eagle Bow
+		'Weapon_Bow_166_For_Ganondorf', //Ganondorf's Demon King's Bow
 	],
 
 	'shields':[
@@ -801,7 +862,18 @@ Equipment.AVAILABILITY={
 		'Weapon_Shield_101', //Zonaite Shield
 		'Weapon_Shield_102', //Strong Zonaite Shield
 		'Weapon_Shield_103', //Mighty Zonaite Shield
-		'Weapon_Shield_040' //Pot Lid
+		'Weapon_Shield_040', //Pot Lid
+
+		'Weapon_Shield_001_NoBurned', //Wooden Shield (Selmie's Spot)
+		'Weapon_Shield_034_NoBurned', //Emblazoned Shield (Selmie's Spot)
+		'Weapon_Shield_031_NoBurned', //Hunter's Shield (Selmie's Spot)
+		'Weapon_Shield_032_NoBurned', //Fisherman's Shield (Selmie's Spot)
+		'Weapon_Shield_035_NoBurned', //Traveler's Shield (Selmie's Spot)
+		'Weapon_Shield_002_NoBurned', //Soldier's Shield (Selmie's Spot)
+		'Weapon_Shield_042_NoBurned', // Kite Shield (Selmie's Spot)
+
+		'Weapon_RaumiGolem_Back', // Mineru's Construct's Back Plate
+		'Weapon_DungeonBossZonau_Front', // Seized Construct Back Plate
 	]
 };
 Equipment.WEAPONS_DECAYED_TO_PRISTINE={
