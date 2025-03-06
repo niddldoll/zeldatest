@@ -166,50 +166,50 @@ const ExperienceCalculator={
 	
 	ENEMY_TIERS:[
 		[
-			['Soldier Construct IV', 3400],
-			['Soldier Construct III', 1700],
-			['Soldier Construct II', 500],
-			['Soldier Construct I', 0]
+			['병정 골렘(특등)', 3400],
+			['병정 골렘(상등)', 1700],
+			['병정 골렘(중등)', 500],
+			['병정 골렘', 0]
 		],[
-			['Captain Construct IV', 4800],
-			['Captain Construct III', 2600],
-			['Captain Construct II', 900],
-			['Captain Construct I', 0]
+			['대장 골렘(특등) ', 4800],
+			['대장 골렘(상등) ', 2600],
+			['대장 골렘(중등) ', 900],
+			['대장 골렘 ', 0]
 		],[
-			['Silver Bokoblin', 3400],
-			['Black Bokoblin', 1700],
-			['Blue Bokoblin', 800],
-			['Bokoblin', 0]
+			['실버 보코블린', 3400],
+			['블랙 보코블린', 1700],
+			['블루 보코블린', 800],
+			['보코블린', 0]
 		],[
-			['Silver Moblin', 5200],
-			['Black Moblin', 2900],
-			['Blue Moblin', 1000],
-			['Moblin', 0]
+			['실버 모리블린', 5200],
+			['블랙 모리블린', 2900],
+			['블루 모리블린', 1000],
+			['모리블린', 0]
 		],[
-			['Silver Lizalfos', 5400],
-			['Black Lizalfos', 3000],
-			['Blue Lizalfos', 1700],
-			['Lizalfos', 0]
+			['실버 리잘포스', 5400],
+			['블랙 리잘포스', 3000],
+			['블루 리잘포스', 1700],
+			['리잘포스', 0]
 		],[
-			['Silver Horriblin', 4700],
-			['Black Horriblin', 2600],
-			['Blue Horriblin', 900],
-			['Horriblin', 0]
+			['실버 호러블린', 4700],
+			['블랙 호러블린', 2600],
+			['블루 호러블린', 900],
+			['호러블린', 0]
 		],[
-			['Silver Boss Bokoblin', 5400],
-			['Black Boss Bokoblin', 3800],
-			['Blue Boss Bokoblin', 2700],
-			['Boss Bokoblin', 0]
+			['실버 보스보코블린', 5400],
+			['블랙 보스보코블린', 3800],
+			['블루 보스보코블린', 2700],
+			['보스보코블린', 0]
 		],[
-			['Silver Lynel', 8100],
-			['White-Maned Lynel', 5500],
-			['Blue-Maned Lynel', 3800],
-			['Lynel', 0]
+			['실버 라이넬', 8100],
+			['하얀 갈기의 라이넬', 5500],
+			['푸른 갈기의 라이넬', 3800],
+			['라이넬', 0]
 		],[
-			['Silver Lynel (Armored)', 8400],
-			['White-Maned Lynel (Armored)', 5600],
-			['Blue-Maned Lynel (Armored)', 3900],
-			['Lynel (Armored)', 0]
+			['실버 라이넬 (갑옷)', 8400],
+			['하얀 갈기의 라이넬 (갑옷)', 5600],
+			['푸른 갈기의 라이넬 (갑옷)', 3900],
+			['라이넬 (갑옷)', 0]
 		]
 	],
 
