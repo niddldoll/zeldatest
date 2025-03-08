@@ -1506,9 +1506,9 @@ Obj_TreasureMap_00:'낡은 지도',
 Obj_WarpDLC_Prototype:'워프 마커 시제품',
 Parasail:'패러세일',
 
-Obj_WarpDLC:'Travel Medallion',
-Obj_Battery_Get:'Energy Cell',
-NormalArrow:'Arrow',
+Obj_WarpDLC:'워프 마커',
+Obj_Battery_Get:'배터리',
+NormalArrow:'화살',
 
 
 
