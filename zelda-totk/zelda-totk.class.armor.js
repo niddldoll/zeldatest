@@ -173,8 +173,6 @@ Armor.AVAILABILITY=[
 	'Armor_179_Upper','Armor_1146_Upper','Armor_1147_Upper','Armor_1148_Upper','Armor_1149_Upper', //Royal Guard Uniform
 	'Armor_179_Lower','Armor_1146_Lower','Armor_1147_Lower','Armor_1148_Lower','Armor_1149_Lower', //Royal Guard Boots
 
-
-
 	'Armor_180_Head','Armor_180_Head_1','Armor_180_Head_2','Armor_180_Head_3','Armor_180_Head_4', //Evil Spirit Mask
 	'Armor_180_Upper','Armor_180_Upper_1','Armor_180_Upper_2','Armor_180_Upper_3','Armor_180_Upper_4', //Evil Spirit Armor
 	'Armor_180_Lower','Armor_180_Lower_1','Armor_180_Lower_2','Armor_180_Lower_3','Armor_180_Lower_4', //Evil Spirit Greaves
@@ -224,6 +222,8 @@ Armor.AVAILABILITY=[
 	'Armor_KRBK_Lower','Armor_KRBK_Lower_1','Armor_KRBK_Lower_2','Armor_KRBK_Lower_3','Armor_KRBK_Lower_4', //Salvager Trousers
 
 	'Armor_MM0_Upper','Armor_MM0_Upper_1','Armor_MM0_Upper_2','Armor_MM0_Upper_3','Armor_MM0_Upper_4', //Nintendo Shirt
+
+	'Armor_Dead_Head','Armor_Dead_1_Head','Armor_Dead_2_Head','Armor_Dead_3_Head','Armor_Dead_4_Head', //Deadpool Mask
 
 	'Armor_Clo_Head', //Cloud's Headpiece
 	'Armor_Clo_Upper', //Cloud's Advent Attire
