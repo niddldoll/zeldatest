@@ -812,7 +812,12 @@ Item.AVAILABILITY={
 		'SpObj_Pile_Capsule_A_01', //Stake
 		'SpObj_LightMirror_Capsule_A_01', //Mirror
 		'SpObj_Chaser_Capsule_A_01', //Homing Cart
-		'SpObj_GolemHead_Capsule_A_01' //Construct Head
+		'SpObj_GolemHead_Capsule_A_01', //Construct Head
+		'SpNpc_BeedleShop_Capsule_01', //Npc BeedleShop 01
+		'SpNpc_BeedleShop_Capsule_02' //Npc BeedleShop 02
+
+
+
 	],
 
 	'key':[
