@@ -282,6 +282,8 @@ Armor.AVAILABILITY=[
 
 	'Armor_1106_Upper','Armor_1107_Upper','Armor_1108_Upper','Armor_1109_Upper','Armor_1110_Upper', //Champion's Leather
 
+	'Armor_1111_Upper','Armor_1112_Upper','Armor_1113_Upper','Armor_1114_Upper','Armor_1115_Upper', //Promotional Champion's Leather
+
 	'Armor_1141_Head','Armor_1142_Head','Armor_1143_Head','Armor_1144_Head','Armor_1145_Head', //Hood of the Depths
 	'Armor_1141_Upper','Armor_1142_Upper','Armor_1143_Upper','Armor_1144_Upper','Armor_1145_Upper', //Tunic of the Depths
 	'Armor_1141_Lower','Armor_1142_Lower','Armor_1143_Lower','Armor_1144_Lower','Armor_1145_Lower', //Gaiters of the Depths
@@ -372,6 +374,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['1096','1097','1098','1099','1100'], //Mask/Tunic/Trousers of Awakening
 	['1101','1102','1103','1104','1105'], //Mask of Furry Awakening
 	['1106','1107','1108','1109','1110'], //Champions Leather
+	['1111','1112','1113','1114','1115'], //Promotional Champions Leather
 	['1150','1151','1152','1153','1154'], //*Tunic of memories (intro, unused)
 	['1141','1142','1143','1144','1145'], //Hood/Tunic/Gaiters of the Depths
 	['1300','1301','1302','1303','1304'] //Yiga Mask/Armor/Tight
