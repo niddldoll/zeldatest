@@ -139,7 +139,7 @@ Armor.AVAILABILITY=[
 	'Armor_056_Head', //Lynel Mask
 	'Armor_1125_Head', //Horriblin Mask
 
-	'Armor_115_Head','Armor_115_Head_1','Armor_115_Head_2','Armor_115_Head_3','Armor_115_Head_4', //Lightning Helm              
+	'Armor_115_Head','Armor_Light_Head_1','Armor_Light_Head_2','Armor_Light_Head_3','Armor_Light_Head_4', //Lightning Helm              
 
 	'Armor_116_Upper','Armor_148_Upper','Armor_149_Upper','Armor_150_Upper','Armor_151_Upper', //Tunic of Memories
 
