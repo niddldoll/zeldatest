@@ -10,17 +10,17 @@ Locale.add('ko', {
 
 
 /* fusable only materials */
-Item_Enemy_137:'바위록의 하트 바위',
-Item_Enemy_138:'야광 바위록의 하트 바위',
-Item_Enemy_139:'레어 바위록의 하트 바위',
-Item_Enemy_140:'마그록의 하트 바위',
-Item_Enemy_141:'꽁꽁록의 하트 바위',
-Item_Enemy_220:'프리즈게이라의 큰 턱',
-Item_Enemy_221:'볼드고마의 암각',
-Item_Enemy_223:'퀸 기브도의 거대한 날개',
-Item_Enemy_225:'블록 골렘의 코어',
-Item_Enemy_226:'중등 블록 골렘의 코어',
-Item_Enemy_227:'상등 블록 골렘의 코어',
+Item_Enemy_137:'Stone Talus Heart',
+Item_Enemy_138:'Luminous Stole Talus Heart',
+Item_Enemy_139:'Rare Stone Talus Heart',
+Item_Enemy_140:'Igneo Talus Heart',
+Item_Enemy_141:'Frost Talus Heart',
+Item_Enemy_220:'Colgera Jaw',
+Item_Enemy_221:'Marbled Gohma Leg',
+Item_Enemy_223:'Queen Gibdo Wing',
+Item_Enemy_225:'Flux Construct I Core',
+Item_Enemy_226:'Flux Construct II Core',
+Item_Enemy_227:'Flux Construct III Core',
 
 
 /* unobtainable */
@@ -596,6 +596,11 @@ Armor_1107_Upper:'신식·영걸의 옷 ★',
 Armor_1108_Upper:'신식·영걸의 옷 ★★',
 Armor_1109_Upper:'신식·영걸의 옷 ★★★',
 Armor_1110_Upper:'신식·영걸의 옷 ★★★★',
+Armor_1111_Upper:'신식·영걸의 옷(파손)',
+Armor_1112_Upper:'신식·영걸의 옷(파손) ★',
+Armor_1113_Upper:'신식·영걸의 옷(파손) ★★',
+Armor_1114_Upper:'신식·영걸의 옷(파손) ★★★',
+Armor_1115_Upper:'신식·영걸의 옷(파손) ★★★★',
 Armor_1150_Upper:'영걸의 옷(정상 오른손)',
 Armor_1151_Upper:'영걸의 옷(정상 오른손) ★',
 Armor_1152_Upper:'영걸의 옷(정상 오른손) ★★',
@@ -1497,12 +1502,11 @@ Obj_SubstituteCloth_56:'애디슨의 수제 원단',
 Obj_SubstituteCloth_Default:'평범한 원단',
 Obj_TreasureMap_00:'낡은 지도',
 Obj_WarpDLC_Prototype:'워프 마커 시제품',
-Obj_WarpDLC:'워프 마커',
 Parasail:'패러세일',
 
-Obj_WarpDLC:'워프 마커',
-Obj_Battery_Get:'배터리',
-NormalArrow:'화살',
+Obj_WarpDLC:'Travel Medallion',
+Obj_Battery_Get:'Energy Cell',
+NormalArrow:'Arrow',
 
 
 
