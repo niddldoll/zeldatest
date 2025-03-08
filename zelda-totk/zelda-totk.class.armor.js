@@ -375,7 +375,6 @@ Armor.INFO=(function(upgrades, dyeables){
 	['1101','1102','1103','1104','1105'], //Mask of Furry Awakening
 	['1106','1107','1108','1109','1110'], //Champions Leather
 	['1111','1112','1113','1114','1115'], //Promotional Champions Leather
-	['1150','1151','1152','1153','1154'], //*Tunic of memories (intro, unused)
 	['1141','1142','1143','1144','1145'], //Hood/Tunic/Gaiters of the Depths
 	['1300','1301','1302','1303','1304'] //Yiga Mask/Armor/Tight
 ], [
