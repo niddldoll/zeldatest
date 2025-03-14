@@ -225,7 +225,7 @@ Armor.AVAILABILITY=[
 	'Armor_KRBK_Upper','Armor_KRBK_Upper_1','Armor_KRBK_Upper_2','Armor_KRBK_Upper_3','Armor_KRBK_Upper_4', //Salvager Vest
 	'Armor_KRBK_Lower','Armor_KRBK_Lower_1','Armor_KRBK_Lower_2','Armor_KRBK_Lower_3','Armor_KRBK_Lower_4', //Salvager Trousers
 
-	'Armor_MM0_Upper','Armor_MM0_Upper_1','Armor_MM0_Upper_2','Armor_MM0_Upper_3','Armor_MM0_Upper_4', //Nintendo Shirt
+	'Armor_170_Upper','Armor_1701_Upper','Armor_1702_Upper','Armor_1703_Upper','Armor_1704_Upper', //Nintendo Shirt
 
 	'Armor_Dead_Head','Armor_Dead_1_Head','Armor_Dead_2_Head','Armor_Dead_3_Head','Armor_Dead_4_Head', //Deadpool Mask
 
@@ -355,6 +355,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['049','152','153','154','155'], //Sand Boots
 	['116','148','149','150','151'], //Tunic of Memories
 	['141','156','157','158','159'], //Snow Boots
+	['170','1701','1702','1703','1704'], //Nintendo Shirt
 	['179','1146','1147','1148','1149'], //Royal Guard Cap/Uniform/Boots
 	['181','186','187','188','189'], //Vah Ruta Divine Helm
 	['182','190','191','192','193'], //Vah Medoh Divine Helm
@@ -381,6 +382,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['1111','1112','1113','1114','1115'], //Promotional Champions Leather
 	['1141','1142','1143','1144','1145'], //Hood/Tunic/Gaiters of the Depths
 	['1300','1301','1302','1303','1304'] //Yiga Mask/Armor/Tight
+
 ], [
 	/* dyeable */
 	'1043', //Archaic Tunic/Legwear
@@ -388,12 +390,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	'043', //Old Shirt/Well-Worn Pants
 	'044', //Warm Doublet
 	'1087', //Mystic Trousers
-	'MM0', //Nintendo Shirt
-	'MM0_1', //Nintendo Shirt
-	'MM0_2', //Nintendo Shirt
-	'MM0_3', //Nintendo Shirt
-	'MM0_4', //Nintendo Shirt
-
+	'170', //Nintendo Shirt
 
 	'1152', //Hylian Hood (lowered)
 	'001', //Hylian Hood/Tunic/Trousers
