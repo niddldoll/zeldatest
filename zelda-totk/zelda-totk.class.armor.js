@@ -123,6 +123,10 @@ Armor.AVAILABILITY=[
 	'Armor_028_Head','Armor_133_Head','Armor_134_Head','Armor_135_Head','Armor_136_Head', //Opal Earrings
 	'Armor_029_Head','Armor_137_Head','Armor_138_Head','Armor_139_Head','Armor_140_Head', //Amber Earrings
 
+	'Armor_043_Upper', //Old Shirt
+	'Armor_043_Lower', //Well-Worn Pants
+	'Armor_044_Upper', //Warm Doublet
+
 	'Armor_046_Head','Armor_103_Head','Armor_104_Head','Armor_105_Head','Armor_106_Head', //Rubber Helm
 	'Armor_046_Upper','Armor_103_Upper','Armor_104_Upper','Armor_105_Upper','Armor_106_Upper', //Rubber Armor
 	'Armor_046_Lower','Armor_103_Lower','Armor_104_Lower','Armor_105_Lower','Armor_106_Lower', //Rubber Tights
@@ -381,12 +385,15 @@ Armor.INFO=(function(upgrades, dyeables){
 	/* dyeable */
 	'1043', //Archaic Tunic/Legwear
 	'1044', //Archaic Warm Greaves
+	'043', //Old Shirt/Well-Worn Pants
+	'044', //Warm Doublet
 	'1087', //Mystic Trousers
 	'MM0', //Nintendo Shirt
 	'MM0_1', //Nintendo Shirt
 	'MM0_2', //Nintendo Shirt
 	'MM0_3', //Nintendo Shirt
 	'MM0_4', //Nintendo Shirt
+
 
 	'1152', //Hylian Hood (lowered)
 	'001', //Hylian Hood/Tunic/Trousers
