@@ -283,6 +283,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_DMS:40,
 	Weapon_Sword_077:40,
 	Weapon_Sword_078:40,
+	Weapon_Sword_079:40,
 	Weapon_Sword_070_Broken:6,
 	Weapon_Sword_101:15,
 	Weapon_Sword_103:12,
@@ -368,7 +369,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Spear_021:12,
 	Weapon_Spear_022:12,
 	Weapon_Spear_024:50,
-	Weapon_Spear_025:35,
+	Weapon_Spear_025:9999,
 	Weapon_Spear_027:40,
 	Weapon_Spear_029:20,
 	Weapon_Spear_030:26,
@@ -520,6 +521,7 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_070:25,
 	Weapon_Sword_071:25,
 	Weapon_Sword_078:25,
+	Weapon_Sword_079:25,
 	Weapon_Sword_101:25,
 	Weapon_Sword_103:25,
 	Weapon_Sword_105:25,
@@ -638,6 +640,7 @@ Equipment.AVAILABILITY={
 	'weapons':[
 		'Weapon_Sword_070', //Master Sword
 		'Weapon_Sword_078', //Master Sword
+		'Weapon_Sword_079', //Master Sword
 		'Weapon_Sword_DMS', //Dark Master Sword
 		'Weapon_Sword_106', //Traveler's Sword (decayed)
 		'Weapon_Sword_001', //Traveler's Sword
