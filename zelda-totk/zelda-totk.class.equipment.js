@@ -276,7 +276,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_047:12,
 	Weapon_Sword_051:18,
 	Weapon_Sword_052:9999,
-	Weapon_Sword_057:45,
+	Weapon_Sword_057:245,
 	Weapon_Sword_058:27,
 	Weapon_Sword_059:9999,
 	Weapon_Sword_070:40,
