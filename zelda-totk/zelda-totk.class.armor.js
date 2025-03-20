@@ -227,7 +227,7 @@ Armor.AVAILABILITY=[
 
 	'Armor_170_Upper','Armor_1701_Upper','Armor_1702_Upper','Armor_1703_Upper','Armor_1704_Upper', //Nintendo Shirt
 
-	'Armor_Dead_Head','Armor_Dead_1_Head','Armor_Dead_2_Head','Armor_Dead_3_Head','Armor_Dead_4_Head', //Deadpool Mask
+	'Armor_1305_Head','Armor_1306_Head','Armor_1307_Head','Armor_1308_Head','Armor_1309_Head', //Deadpool Mask
 
 	'Armor_Clo_Head', //Cloud's Headpiece
 	'Armor_Clo_Upper', //Cloud's Advent Attire
@@ -381,7 +381,8 @@ Armor.INFO=(function(upgrades, dyeables){
 	['1106','1107','1108','1109','1110'], //Champions Leather
 	['1111','1112','1113','1114','1115'], //Promotional Champions Leather
 	['1141','1142','1143','1144','1145'], //Hood/Tunic/Gaiters of the Depths
-	['1300','1301','1302','1303','1304'] //Yiga Mask/Armor/Tight
+	['1300','1301','1302','1303','1304'], //Yiga Mask/Armor/Tight
+	['1305','1306','1307','1308','1309'] //Deadpool Mask
 
 ], [
 	/* dyeable */
@@ -391,7 +392,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	'044', //Warm Doublet
 	'1087', //Mystic Trousers
 	'170', //Nintendo Shirt
-
+	'1305', //Deadpool Mask
 	'1152', //Hylian Hood (lowered)
 	'001', //Hylian Hood/Tunic/Trousers
 
