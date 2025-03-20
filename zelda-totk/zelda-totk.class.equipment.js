@@ -317,6 +317,7 @@ Equipment.DEFAULT_DURABILITY={
 	Gs3:600,
 	Weapon_Sword_023:500,
 	Weapon_Sword_028:500,
+	Weapon_Sword_Asura:260,
 	Npc_Zelda_Torch:8,
 	Demo910_Torch: 8,
 	Weapon_Sword_043_SetFire: 8,
@@ -486,7 +487,9 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_102:15,
 	Weapon_Shield_103:20,
 	Weapon_Shield_107:12,
-	Weapon_Shield_DHS:800,	
+	Weapon_Shield_108:800,
+	Weapon_Shield_DHS:800,
+	Weapon_Shield_Asura:1600,
 	Weapon_DungeonBossZonau_Front:12,
 	Weapon_RaumiGolem_Back: 12,
 	Weapon_RaumiGolem_Left:20,
@@ -689,6 +692,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_Mythra', //Mythra
 		'Weapon_Sword_Pyra', //Pyra
 		'Weapon_Sword_One', //One-Hit Obliterator
+		'Weapon_Sword_Asura', //Asura
 		'Weapon_Sword_231', //Zonai Replica		
 		
 		'Weapon_Sword_077', //Master Sword (glitched)
@@ -822,6 +826,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Bow_106', //Mighty Construct Bow
 		'Weapon_Bow_101', //Zonaite Bow
 		'Weapon_Bow_166', //Demon King's Bow
+		'Weapon_Bow_Asura', //Asura
 
 		'Weapon_Bow_016_Event', //Tulin's Swallow Bow
 		'Weapon_Bow_116', //Tulin's Swallow Bow
@@ -832,6 +837,7 @@ Equipment.AVAILABILITY={
 
 	'shields':[
 		'Weapon_Shield_030', //Hylian Shield
+		'Weapon_Shield_108', //Hylian Shield(dye)
 		'Weapon_Shield_DHS', //Dark Hylian Shield
 		'Weapon_Shield_038', //Ancient Shield
 		'Weapon_Shield_107', //Old Wooden Shield
@@ -866,6 +872,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Shield_102', //Strong Zonaite Shield
 		'Weapon_Shield_103', //Mighty Zonaite Shield
 		'Weapon_Shield_040', //Pot Lid
+		'Weapon_Shield_Asura', //Asura
 
 		'Weapon_Shield_001_NoBurned', //Wooden Shield (Selmie's Spot)
 		'Weapon_Shield_034_NoBurned', //Emblazoned Shield (Selmie's Spot)
