@@ -298,7 +298,9 @@ Armor.AVAILABILITY=[
 	'Armor_1300_Upper','Armor_1301_Upper','Armor_1302_Upper','Armor_1303_Upper','Armor_1304_Upper', //Yiga Armor
 	'Armor_1300_Lower','Armor_1301_Lower','Armor_1302_Lower','Armor_1303_Lower','Armor_1304_Lower', //Yiga Tight
 
-	'Armor_1150_Upper','Armor_1151_Upper','Armor_1152_Upper','Armor_1153_Upper','Armor_1154_Upper' //*Tunic of memories (intro, unused)
+	'Armor_1150_Upper', //*Tunic of memories (intro, unused)
+
+	'Armor_1155_Upper','Armor_1151_Upper','Armor_1152_Upper','Armor_1153_Upper','Armor_1154_Upper' //*Tunic of memories (intro, unused)
 ];
 
 Armor.INFO=(function(upgrades, dyeables){
