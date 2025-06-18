@@ -266,7 +266,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_021:6,
 	Weapon_Sword_022:5,
 	Weapon_Sword_024:35,
-	Weapon_Sword_025:500,
+	Weapon_Sword_025:9999,
 	Weapon_Sword_027:27,
 	Weapon_Sword_029:14,
 	Weapon_Sword_031:27,
@@ -284,12 +284,13 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_077:40,
 	Weapon_Sword_078:40,
 	Weapon_Sword_079:40,
+	Weapon_Sword_080:40,
 	Weapon_Sword_070_Broken:6,
 	Weapon_Sword_101:15,
 	Weapon_Sword_103:12,
 	Weapon_Sword_105:16,
 	Weapon_Sword_106:16,
-	Weapon_Sword_107:9999,
+	Weapon_Sword_107:800,
 	Weapon_Sword_107v2:9999,
 	Weapon_Sword_108:24,
 	Weapon_Sword_109:14,
@@ -305,10 +306,13 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Sword_161:14,
 	Weapon_Sword_163:16,
 	Weapon_Sword_164:18,
+	Weapon_Sword_165:18,
 	Weapon_Sword_166:9999,
 	Weapon_Sword_167:4,
 	Weapon_Sword_168:12,
 	Weapon_Sword_231:40,
+	Weapon_Sword_502:40,
+	Weapon_Sword_Asura:260,
 	Weapon_Sword_Mythra:9999,
 	Weapon_Sword_Pyra:9999,
 	Weapon_Sword_ML:900,
@@ -317,7 +321,6 @@ Equipment.DEFAULT_DURABILITY={
 	Gs3:600,
 	Weapon_Sword_023:500,
 	Weapon_Sword_028:500,
-	Weapon_Sword_Asura:260,
 	Npc_Zelda_Torch:8,
 	Demo910_Torch: 8,
 	Weapon_Sword_043_SetFire: 8,
@@ -431,7 +434,7 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Bow_036:60,
 	Weapon_Bow_038:20,
 	Weapon_Bow_040:18,
-	Weapon_Bow_072:40,
+	Weapon_Bow_072:400,
 	Weapon_Bow_101:50,
 	Weapon_Bow_104:18,
 	Weapon_Bow_105:26,
@@ -488,8 +491,8 @@ Equipment.DEFAULT_DURABILITY={
 	Weapon_Shield_103:20,
 	Weapon_Shield_107:12,
 	Weapon_Shield_108:800,
-	Weapon_Shield_DHS:800,
-	Weapon_Shield_Asura:1600,
+	Weapon_Shield_109:800,
+	Weapon_Shield_DHS:800,	
 	Weapon_DungeonBossZonau_Front:12,
 	Weapon_RaumiGolem_Back: 12,
 	Weapon_RaumiGolem_Left:20,
@@ -525,6 +528,7 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_071:25,
 	Weapon_Sword_078:25,
 	Weapon_Sword_079:25,
+	Weapon_Sword_080:25,
 	Weapon_Sword_101:25,
 	Weapon_Sword_103:25,
 	Weapon_Sword_105:25,
@@ -544,12 +548,14 @@ Equipment.FUSE_DURABILITY={
 	Weapon_Sword_161:25,
 	Weapon_Sword_163:25,
 	Weapon_Sword_164:25,
+	Weapon_Sword_165:25,
 	Weapon_Sword_166:10,
 	Weapon_Sword_167:10,
 	Weapon_Sword_168:25,
 	Weapon_Sword_077:25,
 	Weapon_Sword_070_Broken:25,
-	Weapon_Sword_231:25,	
+	Weapon_Sword_231:25,
+	Weapon_Sword_502:25,
 	Npc_Zelda_Torch:25,
 	Weapon_Sword_152_Main:25,
 	Weapon_Sword_152_Sub:25,
@@ -644,6 +650,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_070', //Master Sword
 		'Weapon_Sword_078', //Master Sword
 		'Weapon_Sword_079', //Master Sword
+		'Weapon_Sword_080', //Master Sword
 		'Weapon_Sword_DMS', //Dark Master Sword
 		'Weapon_Sword_106', //Traveler's Sword (decayed)
 		'Weapon_Sword_001', //Traveler's Sword
@@ -676,6 +683,7 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_101', //Zonaite Sword
 		'Weapon_Sword_163', //Strong Zonaite Sword
 		'Weapon_Sword_164', //Mighty Zonaite Sword
+		'Weapon_Sword_165', //Mighty Zonaite Sword.mk2
 		'Weapon_Sword_161', //Magic Rod
 		'Weapon_Sword_019', //Bokoblin Arm
 		'Weapon_Sword_020', //Lizalfos Arm
@@ -689,10 +697,10 @@ Equipment.AVAILABILITY={
 		'Weapon_Sword_167', //Tree Branch (sky)
 		'Weapon_Sword_022', //Soup Ladle
 		'Weapon_Sword_043', //Torch
+		'Weapon_Sword_043', //Asura
 		'Weapon_Sword_Mythra', //Mythra
 		'Weapon_Sword_Pyra', //Pyra
 		'Weapon_Sword_One', //One-Hit Obliterator
-		'Weapon_Sword_Asura', //Asura
 		'Weapon_Sword_231', //Zonai Replica		
 		
 		'Weapon_Sword_077', //Master Sword (glitched)
@@ -826,7 +834,6 @@ Equipment.AVAILABILITY={
 		'Weapon_Bow_106', //Mighty Construct Bow
 		'Weapon_Bow_101', //Zonaite Bow
 		'Weapon_Bow_166', //Demon King's Bow
-		'Weapon_Bow_Asura', //Asura
 
 		'Weapon_Bow_016_Event', //Tulin's Swallow Bow
 		'Weapon_Bow_116', //Tulin's Swallow Bow
@@ -837,7 +844,6 @@ Equipment.AVAILABILITY={
 
 	'shields':[
 		'Weapon_Shield_030', //Hylian Shield
-		'Weapon_Shield_108', //Hylian Shield(dye)
 		'Weapon_Shield_DHS', //Dark Hylian Shield
 		'Weapon_Shield_038', //Ancient Shield
 		'Weapon_Shield_107', //Old Wooden Shield
@@ -872,7 +878,6 @@ Equipment.AVAILABILITY={
 		'Weapon_Shield_102', //Strong Zonaite Shield
 		'Weapon_Shield_103', //Mighty Zonaite Shield
 		'Weapon_Shield_040', //Pot Lid
-		'Weapon_Shield_Asura', //Asura
 
 		'Weapon_Shield_001_NoBurned', //Wooden Shield (Selmie's Spot)
 		'Weapon_Shield_034_NoBurned', //Emblazoned Shield (Selmie's Spot)

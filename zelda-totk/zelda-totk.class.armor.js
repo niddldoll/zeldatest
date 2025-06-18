@@ -225,6 +225,10 @@ Armor.AVAILABILITY=[
 	'Armor_KRBK_Upper','Armor_KRBK_Upper_1','Armor_KRBK_Upper_2','Armor_KRBK_Upper_3','Armor_KRBK_Upper_4', //Salvager Vest
 	'Armor_KRBK_Lower','Armor_KRBK_Lower_1','Armor_KRBK_Lower_2','Armor_KRBK_Lower_3','Armor_KRBK_Lower_4', //Salvager Trousers
 
+	'Armor_Sees_Head','Armor_Sees_Head_1','Armor_Sees_Head_2','Armor_Sees_Head_3','Armor_Sees_Head_4', //Makoto Head
+	'Armor_Sees_Upper','Armor_Sees_Upper_1','Armor_Sees_Upper_2','Armor_Sees_Upper_3','Armor_Sees_Upper_4', //Makoto Vest
+	'Armor_Sees_Lower','Armor_Sees_Lower_1','Armor_Sees_Lower_2','Armor_Sees_Lower_3','Armor_Sees_Lower_4', //Matkoto Trousers
+
 	'Armor_170_Upper','Armor_1701_Upper','Armor_1702_Upper','Armor_1703_Upper','Armor_1704_Upper', //Nintendo Shirt
 
 	'Armor_1305_Head','Armor_1306_Head','Armor_1307_Head','Armor_1308_Head','Armor_1309_Head', //Deadpool Mask
@@ -232,6 +236,9 @@ Armor.AVAILABILITY=[
 	'Armor_Clo_Head', //Cloud's Headpiece
 	'Armor_Clo_Upper', //Cloud's Advent Attire
 	'Armor_Clo_Lower', //Cloud's Advent Pants
+
+	'Armor_301_Upper','Armor_302_Upper','Armor_303_Upper','Armor_304_Upper','Armor_305_Upper', //Zack's FF7 Attire
+	'Armor_301_Lower','Armor_302_Lower','Armor_303_Lower','Armor_304_Lower','Armor_305_Lower', //Zack's FF7 Pants
 
 	'Armor_SEPH_Head', //Sephiroth's Headpiece
 	'Armor_SEPH_Upper', //Sephiroth's Attire
@@ -293,6 +300,7 @@ Armor.AVAILABILITY=[
 	'Armor_1141_Lower','Armor_1142_Lower','Armor_1143_Lower','Armor_1144_Lower','Armor_1145_Lower', //Gaiters of the Depths
 
 	'Armor_1151_Head', //Well-Worn Hair Band
+	'Armor_1157_Head', //Well-Worn Hair Band
 
 	'Armor_1300_Head','Armor_1301_Head','Armor_1302_Head','Armor_1303_Head','Armor_1304_Head', //Yiga Mask
 	'Armor_1300_Upper','Armor_1301_Upper','Armor_1302_Upper','Armor_1303_Upper','Armor_1304_Upper', //Yiga Armor
@@ -370,6 +378,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['220','221','222','223','224'], //Sheiks Mask
 	['225','226','227','228','229'], //Fierce Deity Mask/Armor/Boots
 	['230','231','232','233','234'], //Cap/Tunic/Trousers of the Hero
+	['301','302','303','304','305'], //Tunic/Trousers of Jack`s
 	['1006','1007','1008','1009','1010'], //Glide Mask/Shirt/Tights
 	['1036','1037','1038','1039','1040'], //Ancient Heros Aspect
 	['1046','1047','1048','1049','1050'], //Froggy Hood/Sleeve/Leggings
