@@ -126,6 +126,7 @@ Armor.AVAILABILITY=[
 	'Armor_043_Upper', //Old Shirt
 	'Armor_043_Lower', //Well-Worn Pants
 	'Armor_044_Upper', //Warm Doublet
+	'Armor_244_Upper','Armor_245_Upper','Armor_246_Upper','Armor_247_Upper','Armor_248_Upper', //Warm Doublet
 
 	'Armor_046_Head','Armor_103_Head','Armor_104_Head','Armor_105_Head','Armor_106_Head', //Rubber Helm
 	'Armor_046_Upper','Armor_103_Upper','Armor_104_Upper','Armor_105_Upper','Armor_106_Upper', //Rubber Armor
@@ -378,6 +379,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	['220','221','222','223','224'], //Sheiks Mask
 	['225','226','227','228','229'], //Fierce Deity Mask/Armor/Boots
 	['230','231','232','233','234'], //Cap/Tunic/Trousers of the Hero
+	['244','245','246','247','248'], //Warm Doublet
 	['301','302','303','304','305'], //Tunic/Trousers of Jack`s
 	['1006','1007','1008','1009','1010'], //Glide Mask/Shirt/Tights
 	['1036','1037','1038','1039','1040'], //Ancient Heros Aspect
@@ -401,6 +403,7 @@ Armor.INFO=(function(upgrades, dyeables){
 	'1044', //Archaic Warm Greaves
 	'043', //Old Shirt/Well-Worn Pants
 	'044', //Warm Doublet
+	'244', //Warm Doublet
 	'1087', //Mystic Trousers
 	'170', //Nintendo Shirt
 	'1305', //Deadpool Mask
